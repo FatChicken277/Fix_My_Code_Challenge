@@ -6,7 +6,7 @@
 <summary>This project contains :</summary>
 <br>
 
-- [0x00-challenge](https://github.com/FatChicken277/Fix_My_Code_Challenge/0x00-challenge)
+- [0x00-challenge](https://github.com/FatChicken277/Fix_My_Code_Challenge/tree/master/0x00-challenge)
 
 
 </details>
